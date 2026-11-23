@@ -1,2 +1,2 @@
 # mnist-memory-limits-
-Neural Networks or Template matching Tets
+Neural Networks or Template matching Tests
