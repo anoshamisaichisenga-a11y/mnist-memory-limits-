@@ -1,0 +1,10 @@
+size,comparison,mean_diff_pp,ci_low,ci_high,verdict,mcnemar_sig_seeds
+28x28,NN0 - TM,10.23,9.55,10.89,NN0 beats TM,10 of 10
+28x28,NN16 - TM,11.7,11.05,12.37,NN16 beats TM,10 of 10
+28x28,NN16 - NN0,1.47,1.24,1.7,NN16 beats NN0,10 of 10
+14x14,NN0 - TM,9.04,8.42,9.67,NN0 beats TM,10 of 10
+14x14,NN16 - TM,10.8,10.16,11.45,NN16 beats TM,10 of 10
+14x14,NN16 - NN0,1.76,1.49,2.04,NN16 beats NN0,10 of 10
+7x7,NN0 - TM,6.31,5.76,6.88,NN0 beats TM,10 of 10
+7x7,NN16 - TM,10.82,10.15,11.48,NN16 beats TM,10 of 10
+7x7,NN16 - NN0,4.51,4.08,4.94,NN16 beats NN0,10 of 10

@@ -1,0 +1,8 @@
+size,method,variant,storage_bytes,accuracy
+7x7,TM,int8,490,78.07
+7x7,NN0,int8,500,84.37
+7x7,NN16,int8,970,88.9
+14x14,NN0,int8,1970,90.77
+14x14,NN16,int8,3322,92.51
+28x28,NN16,int8,12730,93.72
+28x28,NN16,float32,50920,93.73
