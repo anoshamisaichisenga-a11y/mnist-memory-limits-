@@ -1,0 +1,73 @@
+chip,model,fits_weights_in_flash,fits_weights_in_ram
+Arduino Uno (ATmega328P),28x28 TM float32,False,False
+Arduino Uno (ATmega328P),28x28 TM int8,True,False
+Arduino Uno (ATmega328P),28x28 NN0 float32,False,False
+Arduino Uno (ATmega328P),28x28 NN0 int8,True,False
+Arduino Uno (ATmega328P),28x28 NN16 float32,False,False
+Arduino Uno (ATmega328P),28x28 NN16 int8,True,False
+Arduino Uno (ATmega328P),14x14 TM float32,True,False
+Arduino Uno (ATmega328P),14x14 TM int8,True,False
+Arduino Uno (ATmega328P),14x14 NN0 float32,True,False
+Arduino Uno (ATmega328P),14x14 NN0 int8,True,False
+Arduino Uno (ATmega328P),14x14 NN16 float32,True,False
+Arduino Uno (ATmega328P),14x14 NN16 int8,True,False
+Arduino Uno (ATmega328P),7x7 TM float32,True,False
+Arduino Uno (ATmega328P),7x7 TM int8,True,True
+Arduino Uno (ATmega328P),7x7 NN0 float32,True,False
+Arduino Uno (ATmega328P),7x7 NN0 int8,True,True
+Arduino Uno (ATmega328P),7x7 NN16 float32,True,False
+Arduino Uno (ATmega328P),7x7 NN16 int8,True,False
+Arduino Nano 33 BLE (nRF52840),28x28 TM float32,True,True
+Arduino Nano 33 BLE (nRF52840),28x28 TM int8,True,True
+Arduino Nano 33 BLE (nRF52840),28x28 NN0 float32,True,True
+Arduino Nano 33 BLE (nRF52840),28x28 NN0 int8,True,True
+Arduino Nano 33 BLE (nRF52840),28x28 NN16 float32,True,True
+Arduino Nano 33 BLE (nRF52840),28x28 NN16 int8,True,True
+Arduino Nano 33 BLE (nRF52840),14x14 TM float32,True,True
+Arduino Nano 33 BLE (nRF52840),14x14 TM int8,True,True
+Arduino Nano 33 BLE (nRF52840),14x14 NN0 float32,True,True
+Arduino Nano 33 BLE (nRF52840),14x14 NN0 int8,True,True
+Arduino Nano 33 BLE (nRF52840),14x14 NN16 float32,True,True
+Arduino Nano 33 BLE (nRF52840),14x14 NN16 int8,True,True
+Arduino Nano 33 BLE (nRF52840),7x7 TM float32,True,True
+Arduino Nano 33 BLE (nRF52840),7x7 TM int8,True,True
+Arduino Nano 33 BLE (nRF52840),7x7 NN0 float32,True,True
+Arduino Nano 33 BLE (nRF52840),7x7 NN0 int8,True,True
+Arduino Nano 33 BLE (nRF52840),7x7 NN16 float32,True,True
+Arduino Nano 33 BLE (nRF52840),7x7 NN16 int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",28x28 TM float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",28x28 TM int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",28x28 NN0 float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",28x28 NN0 int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",28x28 NN16 float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",28x28 NN16 int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",14x14 TM float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",14x14 TM int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",14x14 NN0 float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",14x14 NN0 int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",14x14 NN16 float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",14x14 NN16 int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",7x7 TM float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",7x7 TM int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",7x7 NN0 float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",7x7 NN0 int8,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",7x7 NN16 float32,True,True
+"ESP32 (module: ESP32-WROOM-32, 4 MB flash)",7x7 NN16 int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",28x28 TM float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",28x28 TM int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",28x28 NN0 float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",28x28 NN0 int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",28x28 NN16 float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",28x28 NN16 int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",14x14 TM float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",14x14 TM int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",14x14 NN0 float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",14x14 NN0 int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",14x14 NN16 float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",14x14 NN16 int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",7x7 TM float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",7x7 TM int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",7x7 NN0 float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",7x7 NN0 int8,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",7x7 NN16 float32,True,True
+"Raspberry Pi Pico (RP2040, 2 MB board flash)",7x7 NN16 int8,True,True
